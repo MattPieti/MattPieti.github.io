@@ -49,16 +49,31 @@ skills:
     tools:
     - MATLAB
     - Python
-    - 
+    - Atmel AVR
+    - Verilog
+    - PBASIC
+    - C
   - category: Design
     tools:
-    - 
+    - LTSpice
+    - NEXYS
+    - Simulink
+    - CCS
+    - Xilinx ISE
+    - RAPTOR
   - category: Hardware
     tools:
-    -   
+    - Arduino UNO
+    - Arduino ATmega
+    - Nexys 2
+    - Basys 3 FPGA
   - category: Lab Equipment
     tools:
-    - 
+    - Breadboards
+    - PCBs
+    - Digital Multimeters
+    - Oscilloscopes
+    - Soldering
 
 
 
