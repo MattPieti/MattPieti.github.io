@@ -16,27 +16,27 @@ main-image: /PlatformMode5.PNG
 ### Mode 1: Ball balancing
 
 {% include image-gallery.html images="Mode1.gif" height="200" %}
-
+---
 ### Mode 2: Joystick movement + balancing
 
 {% include image-gallery.html images="Mode2.gif" height="200" %}
-
+---
 ### Mode 3: Joystick re-centering
 
 {% include image-gallery.html images="Mode3.gif" height="200" %}
-
+---
 ### Mode 4: Automatic circular movement
 
 {% include image-gallery.html images="Mode4.gif" height="200" %}
-
+---
 ### Mode 5: Automatic "bow tie" movement
 
 {% include image-gallery.html images="Mode5.gif" height="200" %}
-
+---
 ### Bonus Mode: Movements without ball
 
 {% include image-gallery.html images="Bonus.gif" height="200" %}
-
+---
 ## Stewart platform technology example: AMiBA radio telescope
 
 {% include image-gallery.html images="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/AMiBA_1.jpg/800px-AMiBA_1.jpg" height="400" %}
