@@ -1,14 +1,9 @@
 ---
 layout: post
-title: Simulated Maze
-description: Built a custom PCB to connect to an Arduino ATmega328P, then used assembly (AVR) to implement a maze. Designed a flowchart solution and translated it into a 4-state finite state machine with subroutines and indirect addressing. Final code also counted how many "bees" the "bear" encountered in the maze.
+title: Undergraduate Research: Accelerometers & Activity Recognition
+description: Implemented an MMA8452Q three-axis accelerometer on an Arduino UNO to measure user movement, resulting in the development of a prototype activity recognition algorithm. Invited to role due to strong academic achievement. Worked collaboratively with a peer.
 skills:
-  - Arduino
-  - Assembly
-  - Indirect addressing
-  - Subroutines
-  - Soldering
-  - PCBs
+  - 
 
 main-image: /Maze.PNG
 ---
