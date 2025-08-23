@@ -1,14 +1,9 @@
 ---
 layout: post
-title: Simulated Maze
-description: Built a custom PCB to connect to an Arduino ATmega328P, then used assembly (AVR) to implement a maze. Designed a flowchart solution and translated it into a 4-state finite state machine with subroutines and indirect addressing. Final code also counted how many "bees" the "bear" encountered in the maze.
+title: Pixelation Programs
+description: Developed programs in MATLAB and Python to pixelate images using two different methods. Included user input for output image pixel size with error checks for invalid inputs.
 skills:
-  - Arduino
-  - Assembly
-  - Indirect addressing
-  - Subroutines
-  - Soldering
-  - PCBs
+  - 
 
 main-image: /Maze.PNG
 ---
