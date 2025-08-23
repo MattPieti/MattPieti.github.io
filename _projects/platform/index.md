@@ -15,7 +15,7 @@ main-image: /PlatformMode5.PNG
 
 ### Mode 1: Ball balancing
 
-{% include image-gallery.html images="Mode1.gif" height="200" %}
+{% include image-gallery.html images="DefaultMode.gif" height="200" %}
 <br>
 ### Mode 2: Joystick movement + balancing
 
