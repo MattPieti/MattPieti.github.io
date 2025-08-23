@@ -10,13 +10,40 @@ skills:
   - Soldering
   - PCBs
 
-main-image: /project2.jpg
+main-image: /Maze.PNG
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+
+## "Arduino Proto-Shield" PCB 
+<br>
+This custom PCB was built by soldering 30 parts according to instructions from the lab manual. It worked first try without errors despite the manual's warning that it probably wouldn't. The PCB could not be located to take a picture, so the images below are from the manual.
+{% include image-gallery.html images="ProtoshieldTop.PNG, ProtoshieldSide.PNG" height="400" %}
+
+---
+##Project Summary
+<br>
+###Lab 1
+<br>
+stuff
+<br>
+###Lab 2
+<br>
+stuff
+<br>
+###Lab 3
+<br>
+stuff
+<br>
+###Lab 4
+<br>
+stuff
+<br>
+###Lab 5
+<br>
+stuff
+<br>
+###Lab 6
+<br>
+stuff
+<br>
