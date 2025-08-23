@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Undergraduate Research - Accelerometers & Activity Recognition
-description: Implemented an MMA8452Q three-axis accelerometer on an Arduino UNO to measure user movement, resulting in the development of a prototype activity recognition algorithm. Invited to role due to strong academic achievement. Worked collaboratively with a peer and presented results.
+description: Implemented an MMA8452Q three-axis accelerometer on an Arduino UNO to measure user movement, resulting in the development of a prototype activity recognition algorithm. Invited to role due to strong academic performance. Worked collaboratively with a peer and presented results.
 skills:
   - Arduino
   - PCB
@@ -14,11 +14,19 @@ main-image: /accel.PNG
 
 ---
 
-## "Arduino Proto-Shield" PCB
+## Summary
 
-This custom PCB was built by soldering 30 parts according to instructions from the lab manual. It worked first try without errors despite the manual's warning that it probably wouldn't. Images below are from the manual.
+After performing well in EE202, a MATLAB course, I was invited by the teacher to join a small group of students researching wearable biomedical technology. We were split into smaller subgroups to study individual components. I was paired with one other student to study accelerometers and their role in activity recognition.
 
-{% include image-gallery.html images="ProtoshieldTop.PNG, ProtoshieldSide.PNG" height="400" %}
+
+
+After some research, we assembled and soldered a simple PCB with an accelerometer to connect to an Arduino, creating a system that outputs three dimensions of acceleration data, averages, and standard deviations to a computer. The results formed a prototype activity recognition system.
+
+
+
+We regularly presented our findings to the larger group throughout the semester. The research ultimately resulted in the [BioMeSensi](https://dl.acm.org/doi/10.1145/2737095.2742920) device, though the undergraduates' contributions were not significant enough for us to be credited.
+
+{% include image-gallery.html images="accelpcb.JPG" height="400" %}
 
 ---
 
