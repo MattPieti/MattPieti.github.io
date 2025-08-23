@@ -3,7 +3,9 @@ layout: post
 title: Pixelation Programs
 description: Developed programs in MATLAB and Python to pixelate images using two different methods. Included user input for output image pixel size with error checks for invalid inputs.
 skills:
-  - 
+  - Images Processing
+  - MATLAB
+  - Python
 
 main-image: /pixcomp.png
 ---
