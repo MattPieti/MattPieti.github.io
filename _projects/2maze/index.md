@@ -15,7 +15,7 @@ main-image: /Maze.PNG
 
 ---
 
-## "Arduino Proto-Shield" PCB 
+## "Arduino Proto-Shield" PCB
 
 This custom PCB was built by soldering 30 parts according to instructions from the lab manual. It worked first try without errors despite the manual's warning that it probably wouldn't. The PCB could not be located to take a picture, so the images below are from the manual.
 
@@ -23,29 +23,29 @@ This custom PCB was built by soldering 30 parts according to instructions from t
 
 ---
 
-##Project Summary
+## Project Summary
 <br>
-###Lab 1
-<br>
-stuff
-<br>
-###Lab 2
+### Lab 1
 <br>
 stuff
 <br>
-###Lab 3
+### Lab 2
 <br>
 stuff
 <br>
-###Lab 4
+### Lab 3
 <br>
 stuff
 <br>
-###Lab 5
+### Lab 4
 <br>
 stuff
 <br>
-###Lab 6
+### Lab 5
+<br>
+stuff
+<br>
+### Lab 6
 <br>
 stuff
 <br>
