@@ -6,6 +6,7 @@ skills:
   - Arduino
   - Assembly
   - Indirect addressing
+  - Subroutines
   - Soldering
   - PCBs
 
