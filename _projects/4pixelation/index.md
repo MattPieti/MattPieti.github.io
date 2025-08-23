@@ -35,3 +35,4 @@ Wrote Python code using the Pillow image processing library to take an image as 
 In the example below, the output image is 80 pixel blocks tall and 40 pixel blocks wide.
 
 {% include image-gallery.html images="ornament.jpg, pixorn.png" height="400" %}
+
