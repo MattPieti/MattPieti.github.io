@@ -17,13 +17,14 @@ main-image: /Maze.PNG
 
 ## "Arduino Proto-Shield" PCB
 
-This custom PCB was built by soldering 30 parts according to instructions from the lab manual. It worked first try without errors despite the manual's warning that it probably wouldn't. The PCB could not be located to take a picture, so the images below are from the manual.
+This custom PCB was built by soldering 30 parts according to instructions from the lab manual. It worked first try without errors despite the manual's warning that it probably wouldn't. Images below are from the manual.
 
 {% include image-gallery.html images="ProtoshieldTop.PNG, ProtoshieldSide.PNG" height="400" %}
 
 ---
 
 ## Project Summary
+
 
 
 ### Introduction
@@ -38,16 +39,13 @@ The goal of this project was to simulate a bear traversing a 20-by-20 maze with 
 ### Part 1: Individual path and flowchart
 
 
-Following lab instructions, I used my student ID number to find my individual "target square" with a solution that crossed through this target square. I had to come as close to 15 bees as possible, but no more.
-<br>
-
-After finding my solution, I represented it as a flowchart.
+Following lab instructions, I used my student ID number to find my individual "target square" with a solution that crossed through this target square. I also had to come as close to 15 bees as possible, but no more. After a solution was found, it was represented as a flowchart.
 
 
 ### Part 2:
 
 
-stuff
+This was the first lab completed after circuit assembly. Code was written to perform some simple calculations and test board functions.
 
 
 ### Part 3:
