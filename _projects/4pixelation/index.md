@@ -5,42 +5,23 @@ description: Developed programs in MATLAB and Python to pixelate images using tw
 skills:
   - 
 
-main-image: /Maze.PNG
+main-image: /pixcomp.png
 ---
 
 ---
 
-## "Arduino Proto-Shield" PCB
+## MATLAB
 
-This custom PCB was built by soldering 30 parts according to instructions from the lab manual. It worked first try without errors despite the manual's warning that it probably wouldn't. Images below are from the manual.
 
-{% include image-gallery.html images="ProtoshieldTop.PNG, ProtoshieldSide.PNG" height="400" %}
+Wrote a MATLAB function that takes as inputs image colors and desired pixel block length. The function generates errors for improper inputs, such as non-integer pixel block length. If the function does not return an error, it instead returns data which can be written to an image as a pixelated version of the input image. This was achieved by averaging together colors of n-by-n pixel blocks for the entire image, where n is the pixel block length input.
+
+{% include image-gallery.html images="ornament.jpg, pixelatedornament.png" height="400" %}
 
 ---
 
-## Project Summary
+## Python
 
 
+Wrote Python code using the Pillow image processing library to take an image as input and output a pixelated version of the input image as a new file. Running the program brings up a UI prompting the user to specify the number of pixel blocks long and tall the image should be. Length and width can be different values. Code includes warnings and errors for improper inputs. This code achieves picelation by shrinking the input image and stretching it back to original size.
 
-### Introduction
-
-
-This was a lab project done for EE346: Microprocessor Principles and Applications. The project spanned the entire semester. Individual project parts were done as 6 lab assignments with pre-labs.
-  
-  
-The goal of this project was to simulate a bear traversing a 20-by-20 maze with each square in the maze grid represented by an ordered pair in hexadecimal. Some squares contained bees with a number indicating how many were there. All programming was done in AVR Assembly
-
-
-{% include image-gallery.html images="MazeFull.PNG" height="400" %}
-
-
-### Part 1: Individual path and flowchart
-
-
-Found a "target square" based on my ID. Designed a maze solution where the bear passes through the target square and as close as possible to 15 bees without going over. Represented solution as a flowchart.
-
-
-### Part 2:
-
-
-Wrote code to perform some simple calculations and test board functions. This was the first lab completed after circuit assembly.
+{% include image-gallery.html images="ornament.jpg, pixorn.png" height="400" %}
