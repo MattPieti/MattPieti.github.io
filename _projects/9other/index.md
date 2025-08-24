@@ -29,7 +29,7 @@ main-image: /breadboard.JPG
 ## Digital Image Processing
 
 
-Used MATLAB to perform image processing tasks, such as one of the pixelation programs seen on my [projects](https://mattpieti.github.io/#projects) page. Other projects in this course include generating and filtering out noise, 
+Used MATLAB to perform image processing tasks, such as one of the pixelation programs seen on my [projects](https://mattpieti.github.io/#projects) page. Other projects in this course include generating and filtering out noise, thresholding, 
 
 ---
 
@@ -85,7 +85,7 @@ Assembled RLC circuits to study principles such as Ohm's Law and Kirchhoff's Law
 ## Introductory MATLAB Projects
 
 
-Completed various projects to learn MATLAB, most significantly a project about grouping 1,000 3-dimensional data points into density boxes and plotting a surface along them. Helped my classmates understand and complete the project. Was asked by the teacher of this class to join him for research the following semester.
+Completed various projects to learn MATLAB, most significantly a project about grouping 1,000 3-dimensional data points into density boxes and plotting a surface along their centers. Helped my classmates understand and complete the project. Was asked by the teacher of this class to join him for research the following semester.
 
 ---
 
