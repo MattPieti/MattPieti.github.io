@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Other
-description: Short descriptions of various smaller projects, mostly from school. Roughly in reverse chronological order. More information about any projects available upon request.
+description: Short descriptions of various smaller projects, mostly from school courses. Roughly in reverse chronological order. More information about any projects available upon request.
 skills:
+  - LTspice
+  - Digital Signal Processing
   - Probability & Statistics
+  - Stochastic Modeling
   - Electromagnetism
   - Electronic Circuits
   - Communication Systems
@@ -22,10 +25,17 @@ main-image: /breadboard.JPG
 
 ---
 
-## Probability Simulations
+## Digital Signal Processing (DSP) Simulations
 
 
-Used MATLAB to simulate electromagnetic interactions in Cartesian and cylindrical coordinates, including electric fields, equipotentials, magnetic flux and induction, EM waves, and attenuation.
+Used MATLAB to simulate DSP concepts including sinusoidal and complex exponential signals, beamforming, Shepard scales, analog-to-digital sampling, digital-to-analog reconstruction, convolution, and FIR filtering.
+
+---
+
+## Probability Simulations & Stochastic Modeling
+
+
+Used MATLAB to simulate real-world examples of probability concepts including Gaussian, Binomial, and Poisson distributions, least-squares-fit, probability density, standard deviation, the central limit theorem, and confidence bounds. Results were shown visually, such as with histograms.
 
 ---
 
@@ -46,7 +56,7 @@ As part of a group, assembled electronic circuits to study various types of diod
 ## Communication System Simulations
 
 
-As part of a group, used MATLAB and Simulink to design simulations of communication systems, such as AM modulation and demodulation and LTI filters.
+As part of a group, used MATLAB and Simulink to design simulations of communication systems, such as AM modulation and demodulation and LTI filters. In a later course, created simulations to study thermal noise, Gaussian random sequences, bit error rates, signal-to-noise ratios, and orthogonal/antipodal signaling.
 
 ---
 
