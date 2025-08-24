@@ -3,6 +3,8 @@ layout: post
 title: Other
 description: Short descriptions of various smaller projects, mostly from school courses. Roughly in reverse chronological order. More information about any projects available upon request.
 skills:
+  - CCS
+  - Vivado
   - Control Systems
   - PBASIC
   - Image Processing
@@ -31,7 +33,7 @@ main-image: /breadboard.JPG
 ## Control Systems
 
 
-In a group, used a custom board provided by the school for various projects. The board used a BASIC Stamp microcontroller and projects were programmed in PBASIC. Project results include a functioning photoresistor, 
+In a small group, used a custom board provided by the school for various projects. The board used a BASIC Stamp microcontroller and projects were programmed in PBASIC. Projects include a photoresistor light alarm, transistor switch, opto-reflector-based tachometer, pulse width modulated fan, opamp buffer and filter, and open-loop control heater.
 
 ---
 
@@ -45,7 +47,7 @@ Used MATLAB to perform image processing tasks, such as one of the pixelation pro
 ## Digital Signal Processing (DSP) Simulations
 
 
-Used MATLAB to simulate DSP concepts including sinusoidal and complex exponential signals, beamforming, Shepard scales, analog-to-digital sampling, digital-to-analog reconstruction, convolution, and FIR filtering.
+Used MATLAB to simulate DSP concepts including sinusoidal and complex exponential signals, beamforming, Shepard scales, analog-to-digital sampling, digital-to-analog reconstruction, convolution, and FIR filtering. Designed Simulink block diagrams to simulate MAC operations, FIR filters, and quantization. In a small group, used CCS and a C5505 eZdsp stick to convert 8-bit PCM data into 16-bit integer data, multiply integers, multiply complex numbers, and partially design an FIR filter, an IIR filter, and a 128-point decimation-in-frequency fast fourier transform.
 
 ---
 
@@ -66,14 +68,14 @@ Used MATLAB to simulate electromagnetic interactions in Cartesian and cylindrica
 ## Analog Electronic Circuit Labs
 
 
-As part of a group, assembled electronic circuits to study various types of diodes, transistors, and circuits that can be made with them. Used oscilloscopes and digital multimeters. In a later course, designed LTspice to further study electronics, such as amplifiers.
+In a small group, assembled electronic circuits to study various types of diodes, transistors, and circuits that can be made with them. Used oscilloscopes and digital multimeters. Designed LTspice and PSPICE circuit simulations to further study electronics, such as amplifiers.
 
 ---
 
 ## Communication System Simulations
 
 
-As part of a group, used MATLAB and Simulink to design simulations of communication systems, such as AM modulation and demodulation and LTI filters. In a later course, created simulations to study thermal noise, Gaussian random sequences, bit error rates, signal-to-noise ratios, and orthogonal/antipodal signaling.
+In a small group, used MATLAB and Simulink to design simulations of communication systems, such as AM modulation and demodulation and LTI filters. In a later course, created simulations to study thermal noise, Gaussian random sequences, bit error rates, signal-to-noise ratios, and orthogonal/antipodal signaling.
 
 ---
 
@@ -94,7 +96,7 @@ Assembled RLC circuits to study principles such as Ohm's Law and Kirchhoff's Law
 ## Introductory MATLAB Projects
 
 
-Completed various projects to learn MATLAB, most significantly a project about grouping 1,000 3-dimensional data points into density boxes and plotting a surface along their centers. Helped my classmates understand and complete the project. Was asked by the teacher of this class to join him for research the following semester.
+Completed various projects to learn MATLAB, most significantly a project about grouping 1,000 3-dimensional data points into density boxes and plotting a surface along their centers. Helped my classmates understand and complete the project. Invited by the teacher of this class to join him for research the following semester.
 
 ---
 
