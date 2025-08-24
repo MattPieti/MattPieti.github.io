@@ -3,6 +3,7 @@ layout: post
 title: Other
 description: Short descriptions of various smaller projects, mostly from school courses. Roughly in reverse chronological order. More information about any projects available upon request.
 skills:
+  - Image Processing
   - LTspice
   - Digital Signal Processing
   - Probability & Statistics
@@ -22,6 +23,13 @@ skills:
 
 main-image: /breadboard.JPG
 ---
+
+---
+
+## Digital Image Processing
+
+
+Used MATLAB to perform image processing tasks, such as one of the pixelation programs seen on my [projects](https://mattpieti.github.io/#projects) page. Other projects in this course include generating and filtering out noise, 
 
 ---
 
@@ -49,7 +57,7 @@ Used MATLAB to simulate electromagnetic interactions in Cartesian and cylindrica
 ## Analog Electronic Circuit Labs
 
 
-As part of a group, assembled electronic circuits to study various types of diodes, transistors, and circuits that can be made with them. Used oscilloscopes and digital multimeters.
+As part of a group, assembled electronic circuits to study various types of diodes, transistors, and circuits that can be made with them. Used oscilloscopes and digital multimeters. In a later course, designed LTspice to further study electronics, such as amplifiers.
 
 ---
 
