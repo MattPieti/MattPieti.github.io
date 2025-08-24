@@ -3,6 +3,8 @@ layout: post
 title: Other
 description: Short descriptions of various smaller projects, mostly from school. Roughly in reverse chronological order. More information about any projects available upon request.
 skills:
+  - Probability & Statistics
+  - Electromagnetism
   - Electronic Circuits
   - Communication Systems
   - Simulink
@@ -20,10 +22,17 @@ main-image: /breadboard.JPG
 
 ---
 
-## Left off on Semester 7. Still need to add EE360 and EE380.
+## Probability Simulations
 
 
-stuff
+Used MATLAB to simulate electromagnetic interactions in Cartesian and cylindrical coordinates, including electric fields, equipotentials, magnetic flux and induction, EM waves, and attenuation.
+
+---
+
+## Electromagnetic Simulations
+
+
+Used MATLAB to simulate electromagnetic interactions in Cartesian and cylindrical coordinates, including electric fields, equipotentials, magnetic flux and induction, EM waves, and attenuation.
 
 ---
 
