@@ -38,7 +38,7 @@ In a group, used a custom board provided by the school for various projects. The
 ## Digital Image Processing
 
 
-Used MATLAB to perform image processing tasks, such as one of the pixelation programs seen on my [projects](https://mattpieti.github.io/#projects) page. Other projects in this course include generating and filtering out noise, and thresholding, and edge detection.
+Used MATLAB to perform image processing tasks, such as one of the pixelation programs seen on my [projects](https://mattpieti.github.io/projects/) page. Other projects in this course include generating and filtering out noise, and thresholding, and edge detection.
 
 ---
 
