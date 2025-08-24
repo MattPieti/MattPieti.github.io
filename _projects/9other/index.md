@@ -55,7 +55,7 @@ Assembled RLC circuits to study principles such as Ohm's Law and Kirchhoff's Law
 
 ---
 
-## Introductory MATLAB projects
+## Introductory MATLAB Projects
 
 
 Completed various projects to learn MATLAB, most significantly a project about grouping 1,000 3-dimensional data points into density boxes and plotting a surface along them. Helped my classmates understand and complete the project. Was asked by the teacher of this class to join him for research the following semester.
