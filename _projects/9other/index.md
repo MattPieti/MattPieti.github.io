@@ -3,6 +3,8 @@ layout: post
 title: Other
 description: Short descriptions of various smaller projects, mostly from school courses. Roughly in reverse chronological order. More information about any projects available upon request.
 skills:
+  - Control Systems
+  - PBASIC
   - Image Processing
   - LTspice
   - Digital Signal Processing
@@ -26,10 +28,17 @@ main-image: /breadboard.JPG
 
 ---
 
+## Control Systems
+
+
+In a group, used a custom board provided by the school for various projects. The board used a BASIC Stamp microcontroller and projects were programmed in PBASIC. Project results include a functioning photoresistor, 
+
+---
+
 ## Digital Image Processing
 
 
-Used MATLAB to perform image processing tasks, such as one of the pixelation programs seen on my [projects](https://mattpieti.github.io/#projects) page. Other projects in this course include generating and filtering out noise, thresholding, 
+Used MATLAB to perform image processing tasks, such as one of the pixelation programs seen on my [projects](https://mattpieti.github.io/#projects) page. Other projects in this course include generating and filtering out noise, and thresholding, and edge detection.
 
 ---
 
