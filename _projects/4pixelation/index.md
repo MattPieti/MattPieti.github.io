@@ -36,4 +36,4 @@ In the example below, the output image is 80 pixel blocks tall and 40 pixel bloc
 
 {% include image-gallery.html images="ornament.jpg, pixorn.png" height="400" %}
 
-
+<br>
