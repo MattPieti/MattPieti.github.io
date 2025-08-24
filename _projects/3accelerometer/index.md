@@ -28,3 +28,4 @@ We regularly presented our findings to the larger group throughout the semester.
 
 {% include image-gallery.html images="accelpcb2.JPG" height="400" %}
 
+
