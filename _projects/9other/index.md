@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Other
+title: Other Projects
 description: Short descriptions of various smaller projects, mostly from school courses. Roughly in reverse chronological order. More information about any projects available upon request.
 skills:
   - CCS
