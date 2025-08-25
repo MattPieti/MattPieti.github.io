@@ -76,6 +76,7 @@ skills:
     - Oscilloscopes
     - Soldering
   - category: EE Subfields
+    tools:
     - Digital Signal Processing
     - Communication Systems
     - Control Systems
