@@ -22,6 +22,7 @@ Wrote a MATLAB function that takes as inputs image colors and desired pixel bloc
 In the example below, 10-by-10 pixel blocks were used for the output image.
 
 {% include image-gallery.html images="ornament.jpg, pixelatedornament.png" height="400" %}
+<span style="font-size: 10px">Image "Costume Ornament with PRofile Portrait" from the National Gallery of Art: https://www.nga.gov/artworks/46288-costume-ornament-profile-portrait</span>  
 
 ---
 
