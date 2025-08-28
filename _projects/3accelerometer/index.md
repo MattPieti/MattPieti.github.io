@@ -13,8 +13,10 @@ main-image: /accel.PNG
 ---
 
 ---
+
 <span style="font-size: 10px">Top image from MMA8452Q datasheet: https://www.nxp.com/docs/en/data-sheet/MMA8452Q.pdf</span>
----
+
+
 
 ## Summary
 
