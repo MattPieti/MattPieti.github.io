@@ -2,8 +2,6 @@
 layout: post
 title: Undergraduate Research - Accelerometers & Activity Recognition
 description: Implemented an MMA8452Q three-axis accelerometer on an Arduino UNO to measure user movement, resulting in the development of a prototype activity recognition algorithm. Invited to role due to strong academic performance. Worked collaboratively with a peer and presented results.
-<br>
-<span style="font-size: 10px">Above image from MMA8452Q datasheet: https://www.nxp.com/docs/en/data-sheet/MMA8452Q.pdf</span>  
 skills:
   - Arduino
   - PCB
@@ -14,6 +12,8 @@ skills:
 main-image: /accel.PNG
 ---
 
+---
+<span style="font-size: 10px">Top image from MMA8452Q datasheet: https://www.nxp.com/docs/en/data-sheet/MMA8452Q.pdf</span>
 ---
 
 ## Summary
