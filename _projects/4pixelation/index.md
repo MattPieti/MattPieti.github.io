@@ -33,7 +33,7 @@ Wrote Python code using the Pillow image processing library to take an image as 
 
 
 
-In the example below, the output image is 80 pixel blocks tall and 40 pixel blocks wide.
+In the example below, the output image is 80 pixel blocks tall and 40 pixel blocks wide. These example values result in a more "intense" pixelation than the example values used above in the MATLAB program.
 
 {% include image-gallery.html images="ornament.jpg, pixorn.png" height="400" %}
 
