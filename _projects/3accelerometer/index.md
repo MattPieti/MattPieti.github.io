@@ -24,7 +24,7 @@ After performing well in EE202, a MATLAB course, I was invited by the teacher to
 
 
 
-After some research, we assembled and soldered a simple PCB with an accelerometer to connect to an Arduino, creating a system that outputs three dimensions of acceleration data, averages, and standard deviations to a computer. The results formed a prototype activity recognition system.
+After some research, we assembled and soldered a simple PCB with an accelerometer to connect to an Arduino, creating a system that outputs three dimensions of acceleration data, averages, and standard deviations to a computer. The results formed a prototype activity recognition algorithm.
 
 
 
