@@ -5,7 +5,7 @@ description: Built a custom PCB to connect to an Arduino Mega with an ATmega328P
 skills:
   - Arduino
   - Assembly
-  - Indirect addressing
+  - Indirect Addressing
   - Subroutines
   - Soldering
   - PCBs
