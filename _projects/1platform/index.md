@@ -4,13 +4,19 @@ title: Ball-and-Plate Platform
 description:  Created a 2-DOF touchscreen PID control platform using an Arduino UNO to autonomously center a metal ball. Compatibility was added for a handheld controller, allowing modes to be switched for pre-programmed movement patterns and manual joystick control within a $150 budget.
 skills: 
 - Arduino
-- MATLAB simulations
-- PID control
-- Research & development
+- MATLAB Simulations
+- PID Control
+- Research & Development
 main-image: /PlatformMode5.PNG 
 ---
 
 ---
+## Summary
+
+
+Worked in a 3-person team to research and develop the platform within one semester. 10 sppecifications were designated before development started, all of which were met or exceeded. Design process included debugging through MATLAB simulations and physical testing.
+
+
 ## Modes
 
 ### Mode 1: Ball balancing
