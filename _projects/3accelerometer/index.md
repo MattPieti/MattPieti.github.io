@@ -30,6 +30,6 @@ After some research, we assembled and soldered a simple PCB with an acceleromete
 
 We regularly presented our findings to the larger group throughout the semester. The research ultimately resulted in the [BioMeSensi](https://dl.acm.org/doi/10.1145/2737095.2742920) device, though the undergraduates' contributions were not significant enough for us to be credited.
 
-{% include image-gallery.html images="accelpcb2.JPG, acceldata2.PNG" height="400" %}
+{% include image-gallery.html images="accelpcb2.JPG, acceldata3.PNG" height="400" %}
 
 <br>
