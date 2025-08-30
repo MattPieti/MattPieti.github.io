@@ -14,7 +14,7 @@ main-image: /PlatformMode5.PNG
 ## Summary
 
 
-Worked in a 3-person team to research and develop the platform within one semester. 10 sppecifications were designated before development started, all of which were met or exceeded. Design process included debugging through MATLAB simulations and physical testing.
+Worked in a 3-person team to research and develop the platform within one semester. 10 specifications were designated before development started, all of which were met or exceeded. Design process included debugging through MATLAB simulations and physical testing.
 
 
 ## Modes
