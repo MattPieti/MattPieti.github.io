@@ -14,7 +14,7 @@ main-image: /PlatformMode5.PNG
 ## Summary
 
 
-Worked in a 3-person team to research and develop the platform within one semester. 10 specifications were designated before development started, all of which were met or exceeded. Design process included debugging through MATLAB simulations and physical testing. Presented results to classmate and teacher. As a mock business proposal, "pitched device" as a prototype amusement park ride.
+Worked in a 3-person team to research and develop the platform, inspired by Stewart platform technology, within one semester. 10 specifications were designated before development started, all of which were met or exceeded. Design process included debugging through MATLAB simulations and physical testing. Presented results to classmate and teacher. As a mock business proposal, "pitched device" as a prototype amusement park ride.
 
 
 ## Modes
