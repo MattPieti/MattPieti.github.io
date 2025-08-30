@@ -33,7 +33,7 @@ This custom PCB was built by soldering 30 parts according to instructions from t
 This was a lab project done for EE346: Microprocessor Principles and Applications. The project spanned the entire semester. Individual project parts were done as 6 lab assignments with pre-labs.
   
   
-The goal of this project was to simulate a bear traversing a 20-by-20 maze with each square in the maze grid represented by an ordered pair in hexadecimal. Some squares contained bees with a number indicating how many were there. All programming was done in AVR Assembly
+The goal of this project was to simulate a bear traversing a 20-by-20 maze with each square in the maze grid represented by an ordered pair in hexadecimal. Some squares contained bees with a number indicating how many were there. All programming was done in AVR Assembly.
 
 
 {% include image-gallery.html images="MazeFull.PNG" height="400" %}
