@@ -29,7 +29,7 @@ In the example below, 10-by-10 pixel blocks were used for the output image.
 ## Python (2025, post-graduation)
 
 
-Wrote Python code using the Pillow image processing library to take an image as input and output a pixelated version of the input image as a new file. Running the program brings up a UI prompting the user to specify the number of pixel blocks long and tall the image should be. Length and width can be different values. Code includes warnings and errors for improper inputs. This code achieves picelation by shrinking the input image and stretching it back to original size.
+Wrote Python code using the Pillow image processing library to take an image as input and output a pixelated version of the input image as a new file. Running the program brings up a UI prompting the user to specify the number of pixel blocks long and tall the image should be. Length and width can be different values. Code includes warnings and errors for improper inputs. This code achieves pixelation by shrinking the input image and stretching it back to original size.
 
 
 
