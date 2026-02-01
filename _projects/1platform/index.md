@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ball-and-Plate PID Control Platform
-description:  Created a 2DOF touchscreen PID control platform using an Arduino UNO to autonomously center a metal ball. Compatibility was added for a handheld controller, allowing modes to be switched for pre-programmed movement patterns and manual joystick control within a $150 budget.
+title: Ball-and-Plate PID Control Platform with MATLAB-Based Analysis
+description:  Created a 2DOF touchscreen PID control platform using an Arduino UNO to autonomously center a metal ball. Compatibility was added for a handheld controller, allowing modes to be switched for pre-programmed movement patterns and manual joystick control within a $150 budget. Validation of the closed-loop control system was performed through MATLAB analysis.
 skills: 
 - Arduino
 - MATLAB Simulations
@@ -14,7 +14,10 @@ main-image: /PlatformMode5.PNG
 ## Summary
 
 
-Worked in a 3-person team to research and develop the platform, inspired by Stewart platform technology, within one semester. 10 specifications were designated before development started, all of which were met or exceeded. Design process included debugging through MATLAB simulations and physical testing. Presented results to classmate and teacher. As a mock business proposal, "pitched device" as a prototype amusement park ride.
+Worked in a 3-person team to research and develop the platform, inspired by Stewart platform technology, within one semester. 10 specifications were designated before development started, all of which were met or exceeded. Design process included debugging through MATLAB simulations and physical testing. Presented results to classmate and teacher. As a mock business proposal, the device was "pitched" as a prototype amusement park ride. The system combined real-time sensing, and feedback control to demonstrate core principles of control systems, system modeling, and performance validation.
+
+
+This project demonstrates my ability to analyze physical system behavior using simulations and measured data within real-world constraints and validate system performance against defined requirements. While implemented as a control system, the emphasis of my work was on understanding system dynamics, interpreting results, and supporting engineering decisions through analysis.
 
 
 ## Modes
