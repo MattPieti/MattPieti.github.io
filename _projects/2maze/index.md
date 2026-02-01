@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simulated Maze
+title: Maze-Solving Embedded System
 description: Built a custom PCB to connect to an Arduino Mega with an ATmega328P microcontroller, then used assembly (AVR) to implement a maze. Designed a flowchart solution and translated it into a 4-state finite state machine with subroutines and indirect addressing. Final code also counted how many "bees" the "bear" encountered in the maze.
 skills:
   - Arduino
