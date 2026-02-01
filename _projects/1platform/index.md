@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ball-and-Plate Platform
+title: Ball-and-Plate PID Control Platform
 description:  Created a 2DOF touchscreen PID control platform using an Arduino UNO to autonomously center a metal ball. Compatibility was added for a handheld controller, allowing modes to be switched for pre-programmed movement patterns and manual joystick control within a $150 budget.
 skills: 
 - Arduino
