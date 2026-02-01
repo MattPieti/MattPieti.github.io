@@ -7,6 +7,7 @@ skills:
 - MATLAB Simulations
 - PID Control
 - Research & Development
+- System Testing & Validation
 main-image: /PlatformMode5.PNG 
 ---
 
