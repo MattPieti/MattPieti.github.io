@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pixelation Programs
+title: Image Pixelation via Spatial Averaging and Resampling
 description: Developed programs in MATLAB and Python to pixelate images using two different methods. Included user input for output image pixel size with error checks for invalid inputs.
 skills:
   - Images Processing
