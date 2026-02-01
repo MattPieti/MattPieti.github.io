@@ -53,9 +53,9 @@ skills:
     - C
   - category: Design
     tools:
+    - Simulink
     - LTSpice
     - NEXYS
-    - Simulink
     - CCS
     - Xilinx ISE
     - RAPTOR
