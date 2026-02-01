@@ -15,7 +15,10 @@ main-image: /PlatformMode5.PNG
 ## Summary
 
 
-Worked in a 3-person team to research and develop the platform, inspired by Stewart platform technology, within one semester. 10 specifications were designated before development started, all of which were met or exceeded. Design process included debugging through MATLAB simulations and physical testing. Presented results to classmate and teacher. As a mock business proposal, the device was "pitched" as a prototype amusement park ride. The system combined real-time sensing, and feedback control to demonstrate core principles of control systems, system modeling, and performance validation.
+Worked in a 3-person team to research and develop the platform, inspired by Stewart platform technology, within one semester. 10 specifications were designated before development started, all of which were met or exceeded. Design process included debugging through MATLAB simulations and physical testing. The system combined real-time sensing, and feedback control to demonstrate core principles of control systems, system modeling, and performance validation.
+
+
+Results were presented to classmate and teacher. As a mock business proposal, the device was "pitched" as a prototype amusement park ride.
 
 
 This project demonstrates my ability to analyze physical system behavior using simulations and measured data within real-world constraints and validate system performance against defined requirements. While implemented as a control system, the emphasis of my work was on understanding system dynamics, interpreting results, and supporting engineering decisions through analysis.
