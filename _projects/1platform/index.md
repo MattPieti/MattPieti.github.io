@@ -24,6 +24,18 @@ Results were presented to classmate and teacher. As a mock business proposal, th
 This project demonstrates my ability to analyze physical system behavior using simulations and measured data within real-world constraints and validate system performance against defined requirements. While implemented as a control system, the emphasis of my work was on understanding system dynamics, interpreting results, and supporting engineering decisions through analysis.
 
 
+## My Contributions
+
+
+In a three-person senior capstone team, my primary contributions focused on analysis, simulation, and system validation:
+
+
+* Developed MATLAB simulations and plots to evaluate system behavior
+* Analyzed recorded position data to assess closed-loop performance
+* Assisted with defining and executing system acceptance tests
+* Contributed to system-level research and documentation
+
+
 ## Modes
 
 ### Mode 1: Ball balancing
