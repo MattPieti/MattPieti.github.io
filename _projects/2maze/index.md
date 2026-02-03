@@ -1,12 +1,14 @@
----
+<img width="1328" height="1705" alt="image" src="https://github.com/user-attachments/assets/049574f3-51d6-450f-9ae3-6b960d075a9d" />---
 layout: post
 title: Maze-Solving Embedded System
 description: Built a custom PCB to connect to an Arduino Mega with an ATmega328P microcontroller, then used assembly (AVR) to implement a maze. Designed a flowchart solution and translated it into a 4-state finite state machine with subroutines and indirect addressing. Final code also counted how many "bees" the "bear" encountered in the maze.
 skills:
   - Arduino
-  - Assembly
+  - Assembly Programming
   - Indirect Addressing
+  - State-Based Logic
   - Subroutines
+  - Incremental Development
   - Soldering
   - PCBs
 
@@ -30,13 +32,16 @@ This custom PCB was built by soldering 30 parts according to instructions from t
 ### Introduction
 
 
-This was a lab project done for EE346: Microprocessor Principles and Applications. The project spanned the entire semester. Individual project parts were done as 6 lab assignments with pre-labs.
+This was a lab project done for EE346: Microprocessor Principles and Applications. The project spanned the entire semester. Individual project parts were completed as 6 lab assignments with pre-labs. Our individual maze solutions were uniquely tied to our student ID numbers.
   
   
-The goal of this project was to simulate a bear traversing a 20-by-20 maze with each square in the maze grid represented by an ordered pair in hexadecimal. Some squares contained bees with a number indicating how many were there. All programming was done in AVR Assembly.
+The goal of this project was to simulate a bear traversing a 20-by-20 maze with each square in the maze grid represented by an ordered pair in hexadecimal. Some squares contained bees with a number indicating how many were there. All programming was done in AVR Assembly. Navigation behavior was governed by finite state machines and indirect addressing. The project emphasized correct low-level memory access and implementation of specified navigation rules across a series of incremental assignments.
 
 
 {% include image-gallery.html images="MazeFull.PNG" height="400" %}
+
+
+## Brief Project Part Summaries
 
 
 ### Part 1: Individual path and flowchart
