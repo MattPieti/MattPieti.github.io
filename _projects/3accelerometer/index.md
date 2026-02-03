@@ -3,11 +3,12 @@ layout: post
 title: Undergraduate Research - Accelerometers & Activity Recognition
 description: Implemented a three-axis accelerometer on an Arduino UNO to measure user movement, resulting in the development of a prototype activity recognition algorithm. Invited to role due to strong academic performance. Worked collaboratively with a peer and presented results.
 skills:
-  - Arduino
+  - Arduino Uno
   - PCB
   - Research
+  - Accelerometers
   - Collaboration
-  - Communication
+  - Technical Presentations
 
 main-image: /accel.PNG
 ---
@@ -24,7 +25,7 @@ After performing well in EE202, a MATLAB course, I was invited by the teacher to
 
 
 
-After some research, we assembled and soldered a simple PCB with an accelerometer to connect to an Arduino, creating a system that outputs three dimensions of acceleration data, averages, and standard deviations to a computer. The results formed a prototype activity recognition algorithm.
+After some research, we assembled and soldered a simple PCB with an accelerometer to connect to an Arduino, creating a system that outputs three dimensions of acceleration data, averages, and standard deviations to a computer. The results formed a prototype activity recognition algorithm. Ths scope of this project was constrained by physical limitations such as a wired device connection.
 
 
 
