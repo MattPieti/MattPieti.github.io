@@ -1,4 +1,4 @@
-<img width="1328" height="1705" alt="image" src="https://github.com/user-attachments/assets/049574f3-51d6-450f-9ae3-6b960d075a9d" />---
+---
 layout: post
 title: Maze-Solving Embedded System
 description: Built a custom PCB to connect to an Arduino Mega with an ATmega328P microcontroller, then used assembly (AVR) to implement a maze. Designed a flowchart solution and translated it into a 4-state finite state machine with subroutines and indirect addressing. Final code also counted how many "bees" the "bear" encountered in the maze.
