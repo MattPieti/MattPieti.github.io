@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Undergraduate Research - Accelerometers & Activity Recognition
-description: Implemented an MMA8452Q three-axis accelerometer on an Arduino UNO to measure user movement, resulting in the development of a prototype activity recognition algorithm. Invited to role due to strong academic performance. Worked collaboratively with a peer and presented results.
+description: Implemented a three-axis accelerometer on an Arduino UNO to measure user movement, resulting in the development of a prototype activity recognition algorithm. Invited to role due to strong academic performance. Worked collaboratively with a peer and presented results.
 skills:
   - Arduino
   - PCB
@@ -29,6 +29,10 @@ After some research, we assembled and soldered a simple PCB with an acceleromete
 
 
 We regularly presented our findings to the larger group throughout the semester. The research ultimately resulted in the [BioMeSensi](https://dl.acm.org/doi/10.1145/2737095.2742920) device, though the undergraduates' contributions were not significant enough for us to be credited.
+
+
+This research experience demonstrates my ability to contribute to exploratory engineering work by researching unfamiliar systems, collecting and interpreting experimental data, and communicating technical findings. The project emphasized understanding sensor behavior and data characteristics rather than developing a finished product.
+
 
 {% include image-gallery.html images="accelpcb2.JPG, acceldata3.PNG" height="400" %}
 
