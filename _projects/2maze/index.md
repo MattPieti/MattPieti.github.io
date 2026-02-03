@@ -38,6 +38,9 @@ This was a lab project done for EE346: Microprocessor Principles and Application
 The goal of this project was to simulate a bear traversing a 20-by-20 maze with each square in the maze grid represented by an ordered pair in hexadecimal. Some squares contained bees with a number indicating how many were there. All programming was done in AVR Assembly. Navigation behavior was governed by finite state machines and indirect addressing. The project emphasized correct low-level memory access and implementation of specified navigation rules across a series of incremental assignments.
 
 
+This project demonstrates my ability to implement and validate state-based control logic at a low level using structured data and assembly language. By translating provided finite state machine designs into working code and using indirect addressing to model environmental interaction, I developed a reliable simulation that evolved through iterative development.
+
+
 {% include image-gallery.html images="MazeFull.PNG" height="400" %}
 
 
