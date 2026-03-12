@@ -32,7 +32,7 @@ In a three-person senior capstone team, my primary contributions focused on anal
 
 * Developed MATLAB simulations and plots to evaluate system behavior
 * Analyzed recorded position data to assess closed-loop performance
-* Assisted with defining and executing system acceptance tests
+* Led definition and execution of system acceptance tests
 * Contributed to system-level research and documentation
 
 
