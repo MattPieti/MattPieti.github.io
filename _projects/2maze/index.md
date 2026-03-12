@@ -53,31 +53,31 @@ This project demonstrates my ability to implement and validate state-based contr
 Found a "target square" based on my ID. Designed a maze solution where the bear passes through the target square and as close as possible to 15 bees without going over. Represented solution as a flowchart.
 
 
-### Part 2:
+### Part 2: Initial board implementation
 
 
 Wrote code to perform some simple calculations and test board functions. This was the first lab completed after circuit assembly.
 
 
-### Part 3:
+### Part 3: Wall detection and turning subroutines
 
 
 Implemented subroutines to determine wall locations in the bear's current room and allow it to turn left, right, or backward.
 
 
-### Part 4:
+### Part 4: Optimization and FSM
 
 
 Implemented circuit debounce. Implemented a delay subroutine to slow maze traversal for user viewability. Implemented a 2-state finite state machine (FSM) for room type and direction, then added a third state for walking.
 
 
-### Part 5:
+### Part 5: Full maze and hallway traversal
 
 
 Implemented the maze digitally as a lookup table and modified existing code to incorporate room locations. Added a fourth state to the FSM to allow the bear to walk down a hallway.
 
 
-### Part 6:
+### Part 6: Project complete
 
 
 Implemented maze solution from the flowchart in Part 1 with the shortest path as an alternate solution. Implemented bee counter.
