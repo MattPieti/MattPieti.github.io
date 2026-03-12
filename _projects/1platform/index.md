@@ -64,5 +64,5 @@ In a three-person senior capstone team, my primary contributions focused on anal
 <br>
 ## Stewart platform technology example: AMiBA radio telescope
 
-{% include image-gallery.html images="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/AMiBA_1.jpg/800px-AMiBA_1.jpg" height="400" %}
+{% include image-gallery.html images="AMiBA_1.jpg" height="400" %}
 <span style="font-size: 10px">Image from: https://en.wikipedia.org/wiki/Stewart_platform#/media/File:AMiBA_1.jpg</span>  
